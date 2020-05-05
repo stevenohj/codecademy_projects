@@ -1,2 +1,4 @@
-# codecademy_projects
-Projects Completed in Codecademy Courses
+# Codeacdemy Projects
+
+Projects I Completed Through my Codecademy Coursework
+
